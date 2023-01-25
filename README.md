@@ -7,6 +7,6 @@ The reshaper uses the position of each letter in the text to determine the resha
 
 This reshaper is essential for those working with Arabic text in the gaming industry, or for anyone looking to enhance the aesthetics of their Arabic text. Developed by Platine, and based on the UTF8 library by Kyle Smith, it offers a user-friendly interface and powerful reshaping capabilities. Obtain it now and effortlessly improve the readability of your Arabic text.
 
-![Screenshot_20230124_064426](https://user-images.githubusercontent.com/8531014/214683759-bc6a185b-691e-4e72-98f1-fd276412169f.png | | width=%50)
-![Screenshot_20230124_071526](https://user-images.githubusercontent.com/8531014/214683771-ff7fc9d9-616a-47c3-ae57-5570c957873f.png)
+<img src="https://user-images.githubusercontent.com/8531014/214683759-bc6a185b-691e-4e72-98f1-fd276412169f.png" width="500">
+<img src="https://user-images.githubusercontent.com/8531014/214683771-ff7fc9d9-616a-47c3-ae57-5570c957873f.png" width="500">
 
