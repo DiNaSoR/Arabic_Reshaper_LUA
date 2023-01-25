@@ -1,4 +1,4 @@
-# Arabic_Reshaper_LUA
+# Arabic Reshaper LUA
 Arabic Text Reshaper by Platine
 
 The Arabic Reshaper for WoWinArabic addons is a powerful tool that enables the reshaping of Arabic characters to improve the overall appearance and readability of text. It ues a table of reshaping rules for Arabic characters, including letters and ligatures, to ensure that the text is displayed correctly in games such as World of Warcraft or any other game that accepts Lua.
