@@ -1,0 +1,13 @@
+﻿## Interface: 100005
+## Title: Lib: Arabic Reshaper
+## Version: 1.00
+## Notes: Library help display the Arabic Text and Reshape it
+## Author: Platine
+## eMail: platine.wow@gmail.com
+## WWW: https://wowpopolsku.pl
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: QTR_PS
+
+
+Arabic_Reshaper.lua
