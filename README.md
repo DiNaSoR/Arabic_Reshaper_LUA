@@ -10,3 +10,28 @@ This reshaper is essential for those working with Arabic text in the gaming indu
 <img src="https://user-images.githubusercontent.com/8531014/214683759-bc6a185b-691e-4e72-98f1-fd276412169f.png" width="500">
 <img src="https://user-images.githubusercontent.com/8531014/214683771-ff7fc9d9-616a-47c3-ae57-5570c957873f.png" width="500">
 
+
+## Installation
+To use this library, simply copy the AS_Reshaping.lua file into your project's directory and require it in your code:
+
+```lua
+local AS_Reshaping = require("AS_Reshaping")
+```
+## Usage
+To reshape Arabic text, call the AS_reshaping() function and pass it a string of Arabic text. The function returns the reshaped text as a string.
+
+```lua
+local reshaped_text = AS_Reshaping.AS_reshaping("اللغة العربية هي لغة جميلة")
+print(reshaped_text)
+Output: ﺔﻴﻟﺮﻌﻟا ﺔﻴﺒﺭﻷا ﻩﻮﻟﺍ ﺔﺳﻮﻠﻋ جميلة لغة هي عربية ال
+```
+To reverse the order of letters in a UTF-8 encoded string, call the AS_UTF8reverse() function and pass it the string. The function returns the reversed string.
+
+```lua
+local reversed_text = AS_Reshaping.AS_UTF8reverse("اللغة العربية هي لغة جميلة")
+print(reversed_text)
+Output: ةيلمج ةغل ليه يبرععلا ةيلغلا
+```
+
+## License
+This library is released under the MIT License. See the LICENSE file for more information.
