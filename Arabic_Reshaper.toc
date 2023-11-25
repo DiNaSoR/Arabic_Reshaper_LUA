@@ -1,12 +1,15 @@
-﻿## Interface: 100005
-## Title: Lib: Arabic Reshaper
-## Version: 1.01
+﻿## Interface: 100200
+## X-Min-Interface: 100200
+## X-Min-Interface-Classic: 11404
+## X-Min-Interface-BCC: 20504
+## X-Min-Interface-Wrath: 30403
+
+## Title: |cFF34C8FFLib:|r-|cFFFF4500Arabic Reshaper|r
+## Version: 1.2
 ## Notes: Library help display the Arabic Text and Reshape it
 ## Author: Platine
 ## eMail: platine.wow@gmail.com
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
-## SavedVariables: QTR_PS
-
 
 Arabic_Reshaper.lua
